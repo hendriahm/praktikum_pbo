@@ -10,7 +10,4 @@ Mendefinisikan kelas Anak ->
 class NamaKelasAnak(NamaKelasInduk):
 
 ## 2. Enkapsulasi
-Enkapsulasi merupakan Teknik untuk mengemas data dan methods dalam satu unit
-Enkapsulasi dapat memberikan Batasan akses ke variable dan methods secara langsung. Tujuan nya untuk menghindari modifikasi data secara tidak sengaja
-Dengan membuat atribut atau method tertentu tersembunyi dari luar objek
-Menggunakan underscore (tanda"_") di awal nama method
+Enkapsulasi merupakan Teknik untuk mengemas data dan methods dalam satu unit. Enkapsulasi dapat memberikan Batasan akses ke variable dan methods secara langsung. Tujuan nya untuk menghindari modifikasi data secara tidak sengaja. Dengan membuat atribut atau method tertentu tersembunyi dari luar objek. Menggunakan underscore (tanda"_") di awal nama method.
